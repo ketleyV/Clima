@@ -1,5 +1,5 @@
 // Variáveis e seleção de elementos
-const apiKey = "750344962d158ce7ba7c9d78c265d3f4";
+const apiKey = ""; //sua chave 
 const apiCountryURL = "https://flagsapi.com/BR/flat/64.png";
 
 const cityInput = document.querySelector("#city-input");
